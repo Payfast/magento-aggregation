@@ -27,7 +27,7 @@ use Payfast\Payfast\Controller\AbstractPayfast;
 use Payfast\Payfast\Model\Config as PayfastConfig;
 use Payfast\Payfast\Model\Info;
 use Magento\Framework\Controller\ResultFactory;
-use Payfast\PayfastCommon\PayfastCommon\Aggregator\Request\PaymentRequest as PayfastCommon;
+use Payfast\PayfastCommon\Aggregator\Request\PaymentRequest as PayfastCommon;
 
 /**
  * Index class
