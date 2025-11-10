@@ -1,10 +1,10 @@
 {
   "name": "payfast/payfast",
-  "description": "Payfast Aggregation Module - Magento v2.4.7+",
-  "license": "proprietary",
-  "homepage": "https://payfast.io",
+  "description": "Payfast Aggregation Module Magento 2",
+  "type": "magento2-module",
   "version": "2.7.0",
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
+  "license": "GPL-3.0",
   "authors": [
     {
       "name": "App Inlet (Pty) Ltd",
@@ -14,9 +14,6 @@
   "require": {
     "php": "^8.2",
     "payfast/payfast-common": "v1.4.0"
-  },
-  "support": {
-    "email": "support@payfast.help"
   },
   "autoload": {
     "files": [
